@@ -1,0 +1,19 @@
+{
+  "name": "inmobiliaria",
+  "version": "0.1.0",
+  "description": "nextu web examen unidad 6",
+  "main": "datos.js",
+  "author": "Felipe Tenorio",
+  "license": "ISC",
+  "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ./server/server.js"
+    },
+    "devDependencies": {
+         "nodemon": "^1.14.11"
+     },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
